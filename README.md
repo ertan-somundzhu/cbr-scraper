@@ -9,7 +9,7 @@ This code returns three files:
 2) A second Excel files with the same data, but also has currency names in Russian in normal form
 3) A pdf file with plots of fluctuation of every currency
 
-Libraries used: pandas, tqdm, time, bs4 (BeautifulSoup), requests, matplotlib, datetime, pymorphy3, joblib, pypdf, os, selenium
+Libraries used: pandas, tqdm, time, requests, matplotlib, datetime, pymorphy3, joblib, pypdf, os, selenium
 
 Approximate runtime - 12-ish hours (if you want to get all the data) or about an hour (if you need data for about a thousand days)
 
