@@ -3,7 +3,6 @@ from tqdm import tqdm
 from tqdm.auto import tqdm
 import time  
 from bs4 import BeautifulSoup  
-import requests
 import matplotlib.pyplot as plt
 from matplotlib.backends.backend_pdf import PdfPages
 from datetime import date
