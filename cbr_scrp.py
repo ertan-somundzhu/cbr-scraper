@@ -22,8 +22,6 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys  
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.remote.webelement import WebElement
-from selenium_recaptcha_solver import RecaptchaSolver
-
 
 options = Options()
 options.add_argument("start-maximized") 
